@@ -1,5 +1,7 @@
 # Embeddable Matrix Chatbox
 
+**Edited to add Nix build, forked from https://github.com/nomadic-labs/ocrcc-bot** 
+
 ![Demo video of chatbox](https://media.giphy.com/media/IhmtP0NoG22k6FRQDF/giphy.gif)
 
 Live demo: https://nomadic-labs.github.io/ocrcc-chatbox/
