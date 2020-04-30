@@ -1,5 +1,5 @@
-with (import <nixpkgs> {});
-mkYarnPackage {
+{ pkgs }:
+pkgs.mkYarnPackage {
   name = "safesupport-chatbox";
   src = ./.;
   packageJSON = ./package.json;
